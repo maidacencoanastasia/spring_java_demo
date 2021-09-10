@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 
-
+//http://localhost:8080/greeting?name=Anastasia
 
 @RestController
 public class GreetingController {
